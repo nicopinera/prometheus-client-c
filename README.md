@@ -78,3 +78,8 @@ communication process so please do not be shy. Speak up!
   * Debian Buster
   * Debian Stretch
   * Debian Jessie
+
+---
+
+> [!NOTE]
+> This version of prometheus-client-c was modified by a student to be compatible with the new version of libmicrohttpd. This allows Prometheus to be used as a submodule.
